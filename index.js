@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import slide_one from './resources/images/slide_one.jpg'
 import App from './App';
 
 
