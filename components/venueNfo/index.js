@@ -8,7 +8,6 @@ const VunueNfo = () => {
         <div className="bck_black">
             <div className="center_wrapper">
                 <div className="vn_wrapper">
-
                     <Zoom duration={500}>
                         <div className="vn_item">
                             <div className="vn_outer">
