@@ -1,8 +1,7 @@
 import React from 'react';
 import Zoom from 'react-reveal/Zoom';
 
-import icon_calendar from '../../resources/images/icons/calendar.png';
-import icon_location from '../../resources/images/icons/location.png';
+
 
 const VunueNfo = () => {
     return (
@@ -18,7 +17,7 @@ const VunueNfo = () => {
                                     <div 
                                         className="vn_icon"
                                         style={{
-                                            background:`url(${icon_calendar})`
+                                            
                                         }}
                                     ></div>
                                     <div className="vn_title">
@@ -41,7 +40,7 @@ const VunueNfo = () => {
                                     <div 
                                         className="vn_icon"
                                         style={{
-                                            background:`url(${icon_location})`
+                                           
                                         }}
                                     ></div>
                                     <div className="vn_title">
