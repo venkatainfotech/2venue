@@ -13,7 +13,6 @@ function App() {
 
           <VunueNfo/>
 
-
           <Location/>
 
     </div>
